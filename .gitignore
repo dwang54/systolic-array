@@ -1,0 +1,8 @@
+.venv/
+build/
+__pycache__/
+.pytest_cache/
+results.xml
+*.vcd
+*.fst
+.DS_Store
